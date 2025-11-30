@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eb68892fc328ff14a8ca1d279208d8dc
+timeCreated: 1473941985
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 72468
+  packageName: Treasure chest with gold
+  packageVersion: 1.0
+  assetPath: Assets/Treasure chest/Materials and textures/gold.mat
+  uploadId: 139130

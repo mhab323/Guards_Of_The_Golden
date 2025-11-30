@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 00cea203ab150044a93b32a566b7b9b0
+timeCreated: 1474967529
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 72468
+  packageName: Treasure chest with gold
+  packageVersion: 1.0
+  assetPath: Assets/Treasure chest/treasue_chest_empty.prefab
+  uploadId: 139130

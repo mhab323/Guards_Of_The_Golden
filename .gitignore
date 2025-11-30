@@ -1,0 +1,19 @@
+# Unity
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+UserSettings/
+Logs/
+MemoryCaptures/
+
+# IDE
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+
+# HUGE NPC bartender files – never track them
+Assets/NPC/Bartender/

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0ba82a7f8f188ed4bbfc31bbd859ecb4
+timeCreated: 1474894359
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 72468
+  packageName: Treasure chest with gold
+  packageVersion: 1.0
+  assetPath: Assets/Treasure chest/Animations/treasure_chest_open.anim
+  uploadId: 139130

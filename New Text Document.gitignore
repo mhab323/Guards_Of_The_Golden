@@ -1,0 +1,33 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# User-specific
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Auto-generated VS/JetBrains
+.vs/
+.idea/
+*.suo
+*.tmp
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS stuff
+.DS_Store
+Thumbs.db
+
+# Crash reports
+sysinfo.txt

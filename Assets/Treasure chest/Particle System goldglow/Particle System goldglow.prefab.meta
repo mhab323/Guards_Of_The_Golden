@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e7b7e8963ef276b45b09be9eb0d6c45a
+timeCreated: 1474894017
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 72468
+  packageName: Treasure chest with gold
+  packageVersion: 1.0
+  assetPath: Assets/Treasure chest/Particle System goldglow/Particle System goldglow.prefab
+  uploadId: 139130

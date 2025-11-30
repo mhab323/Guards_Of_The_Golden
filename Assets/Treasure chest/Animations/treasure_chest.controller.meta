@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b78dd2d4b3f4d2447aa7b680849bc1d0
+timeCreated: 1474894329
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 72468
+  packageName: Treasure chest with gold
+  packageVersion: 1.0
+  assetPath: Assets/Treasure chest/Animations/treasure_chest.controller
+  uploadId: 139130
